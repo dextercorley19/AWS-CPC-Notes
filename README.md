@@ -13,6 +13,6 @@ Practice exams 1,2,11,12 in this repo. Exam 2 being the most relevant to questio
 More here: https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes
 
 ### Taking the exam (virtual)
-\Start system checks early and just use your laptop (no headphones, monitors, anything plugged in). There will be someone who verifies you at the end and if  there's a problem, you may need to reschedule.
+Start system checks early and just use your laptop (no headphones, monitors, anything plugged in). There will be someone who verifies you at the end and if  there's a problem, you may need to reschedule.
 
 #### Goodluck!
