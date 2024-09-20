@@ -5,7 +5,7 @@
 ### Free AWS video series and practice exam 
 (~10 hours with notes) 
    
-https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/   aws-cloud-practitioner-essentials
+https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials
 
 ### Practice exams 
 Practice exams 1,2,11,12 in this repo. Exam 2 being the most relevant to questions I got on the test
